@@ -1,4 +1,4 @@
-var money = 30;
+var money = 60;
 var danishPrice = 45;
 var butterbun = 35;
 var toast = 20;
