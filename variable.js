@@ -4,4 +4,4 @@ var suglassPrice = 120;
 var special = 'ariana';
 // boolean
 var isSingle = true;
-// two types of number: Integer:120
+// two types of number: Integer:120, Float: 34.89;
